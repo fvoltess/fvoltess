@@ -7,7 +7,7 @@ i'm starting my journey in tech and excited to learn, grow, and contribute along
 ### 🌍 About Me  
 - 📍 Based in **Buenos Aires, Argentina**  
 - 🎓 Studying **Digital Business @ Universidad de San Andrés**  
-- 🍵 Currently learning: **TypeScript**, **Framer Motion**, **Django**, **Python OOP**, and more  
+- 🍵 Currently learning: **TypeScript**, **Framer Motion**, **Django**, and more  
 
 ---
 
