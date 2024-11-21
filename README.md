@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-welcome to my GitHub profile! i'm federico.  
+welcome to my gitHub profile! i'm federico.  
 i'm starting my journey in tech and excited to learn, grow, and contribute along the way!
 ---
 
