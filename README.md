@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**cvrfvoltes/cvrfvoltes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+welcome to my GitHub profile! i'm federico.  
+i'm starting my journey in tech and excited to learn, grow, and contribute along the way!
+---
 
-Here are some ideas to get you started:
+### 🌍 About Me  
+- 📍 Based in **Buenos Aires, Argentina**  
+- 🎓 Studying **Digital Business @ Universidad de San Andrés**  
+- 🍵 Currently learning: **TypeScript**, **Framer Motion**, **Django**, **Python OOP**, and more  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack  
+- **Languages:** JavaScript, Python  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Django, Node.js, Express  
+- **Database:** PostgreSQL, MongoDB, Firebase  
+
+---
+
+### 📫 Get in Touch  
+- 📧 **Email:** voltesfederico@gmail.com  
+- 🌐 **LinkedIn:** [Federico Voltes](https://www.linkedin.com/in/federico-voltes/)  
