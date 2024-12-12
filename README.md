@@ -1,18 +1,17 @@
 # Hi there 👋  
 
-welcome to my gitHub profile! i'm federico.  
-i'm starting my journey in tech and excited to learn, grow, and contribute along the way!
+Welcome to my gitHub profile! i'm federico.  
+I'm starting my journey in tech and excited to learn, grow, and contribute along the way!
 ---
 
 ### 🌍 About Me  
 - 📍 Based in **Buenos Aires, Argentina**  
-- 🎓 Studying **Digital Business @ Universidad de San Andrés**  
-- 🍵 Currently learning: **TypeScript**, **Framer Motion**, **Django**, and more  
+- 🎓 Studying **Digital Business @ Universidad de San Andrés**
 
 ---
 
 ### 🧰 Tech Stack  
-- **Languages:** JavaScript, Python  
+- **Languages:** JavaScript, Python, SQL
 - **Frontend:** React, HTML, CSS  
 - **Backend:** Django, Node.js, Express  
 - **Database:** PostgreSQL, MongoDB, Firebase  
