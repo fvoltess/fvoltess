@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-Welcome to my gitHub profile! i'm federico.  
+Welcome to my GitHub profile! I'm Federico.  
 I'm starting my journey in tech and excited to learn, grow, and contribute along the way!
 ---
 
@@ -11,10 +11,11 @@ I'm starting my journey in tech and excited to learn, grow, and contribute along
 ---
 
 ### 🧰 Tech Stack  
-- **Languages:** JavaScript, Python, SQL
+- **Languages:** JavaScript, Python, C
 - **Frontend:** React, HTML, CSS  
 - **Backend:** Django, Node.js, Express  
 - **Database:** PostgreSQL, MongoDB, Firebase  
+- **IRL Languages:** English, Spanish, Hebrew, Italian, Portuguese
 
 ---
 
