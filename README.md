@@ -7,7 +7,7 @@ I'm starting my journey in tech and excited to learn, grow, and contribute along
 ### 🌍 About Me  
 - 📍 Based in **Buenos Aires, Argentina**  
 - 🎓 Studying **Digital Business @ Universidad de San Andrés**
-- **IRL Languages:** English, Spanish, Hebrew, Italian, Portuguese
+- 🌐 English, Spanish, Hebrew, Italian, Portuguese
 
 ---
 
