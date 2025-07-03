@@ -6,7 +6,7 @@ I’m early in my tech journey and keen to learn, build, and ship useful stuff.
 ---
 
 ### 🌍 About Me  
-- 📍 Buenos Aires, Argentina*
+- 📍 Buenos Aires, Argentina
 - 🎓 Digital Business @ San Andres University
 - 🌐 English · Spanish · Hebrew · Portuguese
 
